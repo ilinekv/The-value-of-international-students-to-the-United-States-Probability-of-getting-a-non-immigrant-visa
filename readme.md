@@ -4,8 +4,8 @@ Project timeline:
 Jan 2021 - April 2021
 
 Project team:
-- Zinaida Dvoskina (myself)
-- Kirill Ilin
+- Kirill Ilin (myself)
+- Zinaida Dvoskina
 - Johnathan Conley
 - Cindy Ye Fung
 
